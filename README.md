@@ -2,15 +2,13 @@
 <h3 align="center">passionate bi developer, AI researcher and data analyst, future data scientist</h3>
 <p align="center"><sub>🎶 les posers j'les aime pas trop</sub></p>
 
-
 <p align="center">
   <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=genmnz&theme=github_dark&custom_title=Languages&hide_border=true&layout=compact" alt="Languages">
   <img
   src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&custom_title=Time Invested&theme=github_dark&hide_border=true&layout=compact">
   <img 
-  src="https://github-readme-stats.vercel.app/api?username=genmnz&theme=github_dark&show_icons=true&custom_title=Stats&hide_border=true"
-   alt="Stats"> 
+  src="https://github-readme-stats.vercel.app/api?username=genmnz&theme=github_dark&show_icons=true&custom_title=Stats&hide_border=true" alt="Stats"> 
 </p>
 
 # Tech Stack
