@@ -7,8 +7,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=genmnz&theme=github_dark&custom_title=Languages&hide_border=true&layout=compact" alt="Languages">
   <img
   src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&custom_title=Time Invested&theme=github_dark&hide_border=true&layout=compact">
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=genmnz&theme=github_dark&show_icons=true&custom_title=Stats&hide_border=true" alt="Stats"> 
+<!--   <img   src="https://github-readme-stats.vercel.app/api?username=genmnz&theme=github_dark&show_icons=true&custom_title=Stats&hide_border=true" alt="Stats">  -->
 </p>
 
 # Tech Stack
